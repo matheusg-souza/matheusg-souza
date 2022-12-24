@@ -21,9 +21,12 @@ You can find me on <a href="https://discord.com/users/140484514039332864" rel="n
 <div>
 <a href="https://github.com/Ryulf/Ryulf">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryulf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+</a>
+<a href="https://github.com/Ryulf/Ryulf">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryulf&layout=compact&langs_count=7&theme=dracula"/>
-
+</a>
 </div>
+
 <!--
 **Ryulf/Ryulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
