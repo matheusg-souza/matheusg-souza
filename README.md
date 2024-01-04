@@ -8,13 +8,14 @@ You can find me on <a href="https://discord.com/users/140484514039332864" rel="n
 
 ### Languages 🚀
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Learning 📚
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 ## &#x1f4c8; GitHub Stats
 
