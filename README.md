@@ -20,11 +20,11 @@ You can find me on <a href="https://discord.com/users/140484514039332864" rel="n
 ## &#x1f4c8; GitHub Stats
 
 <div>
-<a href="https://github.com/Ryulf/Ryulf">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ryulf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+<a href="https://github.com/matheusg-souza/matheusg-souza">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusg-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
 </a>
-<a href="https://github.com/Ryulf/Ryulf">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryulf&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/matheusg-souza/matheusg-souza">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg-souza&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div>
 
