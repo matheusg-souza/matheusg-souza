@@ -6,16 +6,15 @@ My name is Matheus. I'm from Brazil, countryside of São Paulo, I'm learning pro
 You can find me on <a href="https://discord.com/users/140484514039332864" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/discord.png" alt="Discord" width="17px" style="paddin-top: 1000px;"></a>, or on <a href="https://www.linkedin.com/in/matheus-souza-290061134" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/linkedin.png" alt="Linkedin" width="17px"></a>
 </p>
 
-### Languages 🚀
+## Skills 📚
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-### Learning 📚
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 ## &#x1f4c8; GitHub Stats
 
