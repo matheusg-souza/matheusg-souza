@@ -6,8 +6,6 @@ My name is Matheus. I'm from Brazil, countryside of São Paulo, I'm learning pro
 You can find me on <a href="https://discord.com/users/140484514039332864" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/discord.png" alt="Discord" width="17px" style="paddin-top: 1000px;"></a>, or on <a href="https://www.linkedin.com/in/matheus-souza-290061134" rel="nofollow"><img src="https://raw.githubusercontent.com/CrazyTos/CrazyTos/master/linkedin.png" alt="Linkedin" width="17px"></a>
 </p>
 
-## Skills 📚
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
